@@ -1,8 +1,8 @@
 # mongoScrapper
 
 #Technologies Used
--Node.js
--Express.js
+* Node.js
+Express.js
 -Handlebars.js
 -MongoDB
 -Mongoose
