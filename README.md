@@ -1,5 +1,7 @@
 # mongoScrapper
 
+# Application still in Progress (MongoDB Errors, Heroku Deployment)
+
 ## Technologies Used
 * Node.js
 * Express.js
